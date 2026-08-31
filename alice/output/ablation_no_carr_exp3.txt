@@ -1,0 +1,12 @@
+ablation_carr_disabled_exp3:
+  bob_TRSD_residual: 5.9882
+  bob_TRSD_uncertain: 160
+  total_bits: 567
+  bch_budget: 54
+  N_AB: 1580
+  N_AC: 1580
+  outcome: reconciliation_failed
+baseline_exp3:
+  bob_TRSD_residual: 0.023
+  bob_TRSD_uncertain: 0
+  KDR: 0%

@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+galois>=0.3        # BCH(63,30,t=6) encode/decode
+matplotlib>=3.7    # docs/make_figures.py only

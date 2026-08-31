@@ -1,0 +1,2 @@
+AB	OK	0
+AC	OK	0

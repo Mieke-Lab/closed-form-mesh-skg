@@ -1,0 +1,2 @@
+exp,N,KEY_BITS,BMR_pre,BMR_post,BGR,KGR,ADMM_iters,conf_tol,NIST,KDR,Eve_KDR,r_AliceEve
+exp3,1580,256,0.000000  (0/256),0.000000  (0/256),0.1620,8.424,"1,1",0.0500,PASS,0%,52.34%,-0.0148

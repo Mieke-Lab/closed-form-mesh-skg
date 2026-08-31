@@ -1,0 +1,13 @@
+exp=exp3
+N=1580
+solver=TRSD
+alpha_rel=0.001
+alpha=8.038673e+04
+real_iterations=1
+imag_iterations=1
+real_residual=1.159484e+01
+imag_residual=0.000000e+00
+uncertain_bits=127/567
+confidence_tol=0.2000
+BCH=(63,30,t=6) blocks=9
+wall_seconds=0.001

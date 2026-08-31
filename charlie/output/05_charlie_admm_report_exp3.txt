@@ -1,0 +1,13 @@
+# Stage 05 (Charlie) - TRSD deobfuscation report
+exp                = exp3
+N                  = 1580
+solver             = TRSD
+alpha_rel          = 0.001
+alpha              = 1.381760e+05
+iterations         = 1
+projection_residual= 2.344313e-02
+epsilon_confidence = 0.05
+uncertain_bits     = 0
+trial_flip_recov   = 0
+bch_decode_fail    = 0
+elapsed_seconds    = 8.198

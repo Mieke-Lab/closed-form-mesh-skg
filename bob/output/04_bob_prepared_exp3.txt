@@ -1,0 +1,7 @@
+status=OK
+exp=exp3
+N=1580
+N_AB_alice=1580
+b_AB=03_alice_b_AB_exp3.csv
+matrix_first_row=04_bob_matrix_BA_exp3.csv
+adjusted_rssi=04_bob_adjusted_BA_exp3.csv

@@ -1,0 +1,5 @@
+exp=exp3
+key_length_bits=256
+BMR_pre_reconciliation=0.000000  (0/256)
+BMR_post_reconciliation=0.000000  (0/256)
+BMR_post_BCH=0.000000  (0/256)

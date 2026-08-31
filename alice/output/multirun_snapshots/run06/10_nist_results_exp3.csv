@@ -1,0 +1,9 @@
+test_name,p_value,p_block1,p_block2,result
+Frequency (Monobit),0.288844,0.288844,0.859684,PASS
+Block Frequency (M=10),0.083815,0.68576,0.083815,PASS
+Runs,0.647666,0.647666,0.85748,PASS
+Longest Run of Ones,0.176953,0.176953,0.51263,PASS
+Approximate Entropy (m=3),0.737993,0.737993,0.740939,PASS
+Cumulative Sums (Forward),0.499939,0.499939,0.892023,PASS
+Cumulative Sums (Reverse),0.314554,0.314554,0.737518,PASS
+Serial (m=3),0.731616,0.731616,0.984496,PASS

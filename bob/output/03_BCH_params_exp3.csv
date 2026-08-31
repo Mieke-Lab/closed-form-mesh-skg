@@ -1,0 +1,9 @@
+param,value
+BCH_N,63
+BCH_K,30
+BCH_T,6
+L,9
+KEY_BITS,256
+N_AB,1580
+N_AC,1580
+total_encoded_bits,567

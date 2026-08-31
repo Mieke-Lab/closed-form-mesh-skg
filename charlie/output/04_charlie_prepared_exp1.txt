@@ -1,0 +1,18 @@
+# Stage 04 (Charlie) - Preparation status
+exp                = exp1
+channel_source     = fallback Alice adjusted_AC
+N_alice            = 2045
+N_adjusted         = 2045
+first_row_N        = 2045
+MA_WINDOW          = 150
+RP_SEED            = 42
+MEDIAN_WINDOW      = 7
+MEAN_WINDOW        = 7
+BCH_N              = 63
+BCH_K              = 30
+BCH_T              = 6
+L                  = 9
+KEY_BITS           = 256
+N_AB               = 2045
+N_AC               = 2045
+total_encoded_bits = 567
